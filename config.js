@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Bae à <3',
-    introDesc: `Chuyện bắt đầu vào một ngày nọ, khi anh vẫn sống ngày tháng tươi đẹp. Phận sao phận bạc như vôi, khăng khăng bủa mãi lấy người hồng nhan. Vì em xinh đẹp quá, cho nên đời nó không cho anh cuộc sống dễ dàng. Mỗi ngày tương tư đến em, anh cũng muốn tỏ tình lắm. Nhưng mà, bước đi ba bước lại ngừng, thôi đành để vậy cầm chừng đợi nhau. Nhớ em đêm nhớ đêm nhung, nhưng nhớ mà trách nhưng sầu mà hư. Anh chợt nhận ra khí trời có vị ngọt, nước có màu hồng. À không, đấy là tình yêu màu hồng anh dành cho em đấy :>. Gửi Thủy <3`,
+    introDesc: `Chuyện bắt đầu vào một ngày nọ, khi anh vẫn sống ngày tháng tươi đẹp`,
     btnIntro: 'Hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
